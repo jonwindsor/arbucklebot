@@ -4,6 +4,6 @@
 	"third" : ["blistering", "burning", "chill", "cool", "freezing", "cold", "frigid", "frosty", "hot", "icy", "molten", "scalding", "sizzling", "warm"],
 	"fourth" : ["boggle", "annihilate", "taunt", "run-over", "medicate", "imprison", "dispute", "shred", "butter-up", "peddle", "hate", "absorb", "agitate", "ambush", "appeal", "banish", "bankrupt", "barricade", "battle", "begrudge", "bewitch", "bisect", "blackmail", "blare", "blast", "blunder"],
  	"sentence" : ["Why do they call it #combination# when you #noun# the #temp# food #noun# out #temp# #fourth# the food"],
-	"image" :["https://t.co/DbF2jW6ou4"],
+	"image" : ["https://t.co/DbF2jW6ou4"],
 	"origin" : ["[noun:#second#] #[combination:#first#-#noun#][temp:#third#]sentence# #image#"]
 }
