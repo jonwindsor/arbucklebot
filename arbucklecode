@@ -1,9 +1,0 @@
-{
-	"first" : ["drunken", "methodical", "bewildered", "maniacal", "quarrelsome", "aloof", "boisterous", "churlish", "suspicious", "persnickety",  "reclusive", "zealous", "combative", "glamorous", "tasty", "wicked", "bootleg", "confused", "funny", "grouchy", "impractical", "sassy", "selfish", "stoic", "wise", "confused", "tranquil", "volcanic",  "venal", "corrupt", "unlawful", "illegitimate", "questionable", "nefarious", "villainous", "heroic", "personified", "alert"],
-	"second" : ["cattywampus", "giraffe", "gobbledygook", "racoon", "baboon", "love", "aardvark", "weasel", "tomato", "carrot", "cantaloupe", "burger","boomerang", "karate", "grandma", "government", "politician", "fish", "soup", "gamer", "charity", "vendetta", "bread", "harmonica", "rabbit", "scandal", "banana", "broccoli", "wildcat", "racket", "spy", "pirate", "bakery", "Garfield", "Arbuckle", "Odie"],
-	"third" : ["blistering", "burning", "chill", "cool", "freezing", "cold", "frigid", "frosty", "hot", "icy", "molten", "scalding", "sizzling", "warm"],
-	"fourth" : ["boggle", "annihilate", "taunt", "run-over", "medicate", "imprison", "dispute", "shred", "butter-up", "peddle", "hate", "absorb", "agitate", "ambush", "appeal", "banish", "bankrupt", "barricade", "battle", "begrudge", "bewitch", "bisect", "blackmail", "blare", "blast", "blunder"],
- 	"sentence" : ["Why do they call it #combination# when you #noun# the #temp# food #noun# out #temp# #fourth# the food"],
-	"image" : ["https://t.co/DbF2jW6ou4"],
-	"origin" : ["[noun:#second#] #[combination:#first#-#noun#][temp:#third#]sentence# #image#"]
-}
