@@ -22,3 +22,9 @@ An example [@ArbuckleBot](https://twitter.com/ArbuckleBot) Tweet for comparison,
 When deciding on an idea for this project, I opted to target something a step above the minimum, challenging myself by using slightly more complex syntax, while also allowing for something more relaxed as I learned the methododology sorrounding Twitter bot creation. Similar to Twitter bots such as [@RoofSlappingBot](https://twitter.com/RoofSlappingBot), this bot takes a popular meme and runs with it, though the limited scope of the meme's format made complicating it any further rather challenging.
 
 [@ArbuckleBot](https://twitter.com/ArbuckleBot) stayed rather consistant throughout its development, though small changes went a long way in increasing my happiness with the final project. The simple addition of the cropped image of the comic strip panel to each Tweet makes the generated text look as if it is itself the text bubble associated with Jon Arbuckle. While I thought that overlaying the attached image with the bot-generated text would be interesting, I prefered this more subtle approach. Furthermore, a curated set of generated words made those blurbs posted more humorous and easier to understand. While I see this bot as purely a learning experience to launch future Twitter bot creations, the only thing I could see being improved upon with this bot, given the meme's format, would be increasing the amount of curated adjectives and nouns to reduce the percentage chance of repeated combinations.
+
+## Changes and Improvements
+ 
+  **11/22/21**
+- Added an expanded word-list for adjectives, nouns, and verbs
+- Reduced post frequency to every 6 hours (from 3)
