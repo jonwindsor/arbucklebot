@@ -1,9 +1,20 @@
 {
-	"first" : ["drunken", "methodical", "bewildered", "maniacal", "quarrelsome", "aloof", "boisterous", "churlish", "suspicious", "persnickety",  "reclusive", "zealous", "combative", "glamorous", "tasty", "wicked", "bootleg", "confused", "funny", "grouchy", "impractical", "sassy", "selfish", "stoic", "wise", "confused", "tranquil", "volcanic",  "venal", "corrupt", "unlawful", "illegitimate", "questionable", "nefarious", "villainous", "heroic", "personified", "alert"],
-	"second" : ["cattywampus", "giraffe", "gobbledygook", "racoon", "baboon", "love", "aardvark", "weasel", "tomato", "carrot", "cantaloupe", "burger","boomerang", "karate", "grandma", "government", "politician", "fish", "soup", "gamer", "charity", "vendetta", "bread", "harmonica", "rabbit", "scandal", "banana", "broccoli", "wildcat", "racket", "spy", "pirate", "bakery", "Garfield", "Arbuckle", "Odie"],
-	"third" : ["blistering", "burning", "chill", "cool", "freezing", "cold", "frigid", "frosty", "hot", "icy", "molten", "scalding", "sizzling", "warm"],
-	"fourth" : ["boggle", "annihilate", "taunt", "run-over", "medicate", "imprison", "dispute", "shred", "butter-up", "peddle", "hate", "absorb", "agitate", "ambush", "appeal", "banish", "bankrupt", "barricade", "battle", "begrudge", "bewitch", "bisect", "blackmail", "blare", "blast", "blunder"],
- 	 "sentence" : ["Why do they call it #combination# when you #noun# the #temp# food #noun# out #temp# #fourth# the food"],
+	"first" : ["drunken", "methodical", "bewildered", "maniacal", "quarrelsome", "aloof", "boisterous", "churlish", "suspicious", "persnickety",  "reclusive", "zealous", "combative", "glamorous", "tasty", "wicked", "bootleg", "confused", "funny", "grouchy", "impractical", "sassy", "selfish", "stoic", "wise", "confused", "tranquil", "volcanic",  "venal", "corrupt", "unlawful", "illegitimate", "questionable", "nefarious", "villainous", "heroic", "personified", "alert", "sinister", "startled", "blathering", "flickering", "hyperactive", "territorial", "mischievous", "elastic", "furious", "tactful", "bonkers", "costumed", "shivering", "loyal", "joyful", "loud", "quaint", "jurassic", "gothic", "cinematic", "ideological", "flamboyant", "comedic", "melodramatic", "allegorical", "experimental", "scholarly", "foolish", "refrigerated", "indestructible", "gnarly", "bodacious", "honkytonk", "frivolous", "flabbergasted", "impeccable"],
+
+
+	"second" : ["Garfield", "Arbuckle", "Odie", "Dracula",  "Grinch",  "Applebee's", "cattywampus", "gobbledygook", "giraffe", "ravioli", "baboon", "love", "aardvark", "saxophone", "asparagus", "celery", "carrot", "cantaloupe", "calendar","bumblebee", "karate", "grandma", "government", "fish", "soup", "gamer", "charity", "vendetta", "cornbread", "harmonica", "rabbit", "scandal", "bathtub", "mailbox", "socks", "racket", "stapler", "pirate", "bakery", "morality", "therapy", "psychic", "lettuce", "wrinkle", "toilet", "coffee", "toaster", "turkey", "popsicle", "eskimo", "Slip n' Slide", "motorbike", "leprechaun", "penguin", "napkin", "goblin", "acapella", "debt", "gnome", "macaroni", "malarkey", "rigmarole", "shenanigans"],
+
+
+	"third" : ["blistering", "burning", "chill", "cool", "freezing", "cold", "frigid", "frosty", "hot", "icy", "molten", "scalding", "sizzling", "warm", "arctic", "crsip", "algid", "bleak", "raw", "glacial", "polar", "brumal", "hibernal", "steaming", "scorching",  "withering", "hyperthermic", "piping", "flaming", "broiling", "charring", "fevered", "lukewarm", "tepid", "toasty", "temperate", "numbing", "subzero"],
+
+	"fourth" : ["boggle", "dispute", "taunt", "run-over", "medicate", "imprison", "dispute", "shred", "butter-up", "peddle", "hate", "absorb", "agitate", "ambush", "appeal", "banish", "bankrupt", "barricade", "battle", "begrudge", "bewitch", "bisect", "blackmail", "blare", "blast", "blunder", "boogie", "splatter", "echo", "mimic", "kick", "punch", "broil", "carbonize", "ignite", "overcook", "incinerate", "scramble", "lollygag"],
+
+
+ 	"sentence" : ["Why do they call it #combination# when you #noun# the #temp# food #noun# out #temp# #fourth# the food"],
 	"image" :["https://t.co/DbF2jW6ou4"],
-	 "origin" : ["[noun:#second#] #[combination:#first#-#noun#][temp:#third#]sentence# #image#"]
+	"origin" : ["[noun:#second#] #[combination:#first#-#noun#][temp:#third#]sentence# #image#"]
 }
+
+
+
+
