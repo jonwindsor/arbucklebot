@@ -15,7 +15,7 @@ An example [@ArbuckleBot](https://twitter.com/ArbuckleBot) Tweet for comparison,
 
 <img src="https://user-images.githubusercontent.com/89407955/132077972-6310f74d-15e5-4d43-81ca-d4e0bfda709c.png" width=50% height=50%>
 
-*This bot posts every three hours and is capable of achieving up to 9034841088 possible permutations*
+*This bot posts every three hours and is capable of achieving up to 1042041867048 possible permutations*
 
 
 ## Feats, Struggles, and Reflection
